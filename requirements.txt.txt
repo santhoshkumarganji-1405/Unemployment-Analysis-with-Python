@@ -1,0 +1,56 @@
+START
+  │
+  ▼
+Collect Unemployment Dataset
+  │
+  ▼
+Load Dataset using Pandas
+  │
+  ▼
+Data Cleaning
+  ├─ Check Missing Values
+  ├─ Remove Duplicates
+  └─ Convert Date Formats
+  │
+  ▼
+Exploratory Data Analysis (EDA)
+  ├─ Statistical Summary
+  ├─ Distribution Analysis
+  └─ Correlation Analysis
+  │
+  ▼
+Data Visualization
+  ├─ Unemployment Rate Distribution
+  ├─ Region-wise Analysis
+  ├─ State-wise Analysis
+  └─ Monthly Trend Analysis
+  │
+  ▼
+COVID-19 Impact Analysis
+  ├─ Compare Pre-COVID & COVID Period
+  ├─ Analyze Unemployment Spike
+  └─ Region-wise COVID Impact
+  │
+  ▼
+Identify Patterns & Trends
+  ├─ Seasonal Trends
+  ├─ High Unemployment Regions
+  └─ Employment Participation Trends
+  │
+  ▼
+Generate Insights
+  ├─ Economic Impact
+  ├─ Social Impact
+  └─ Policy Recommendations
+  │
+  ▼
+Create Visual Reports
+  │
+  ▼
+Upload to GitHub
+  │
+  ▼
+Submit to CodeAlpha
+  │
+  ▼
+END
